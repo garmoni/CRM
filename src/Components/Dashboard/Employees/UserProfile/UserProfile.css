@@ -1,0 +1,7 @@
+.UserProfile input {
+    margin: 5px 0;
+    padding: 2px 5px;
+}
+.UserProfile button {
+    background: rgba(0, 0, 0, 0.2);
+}

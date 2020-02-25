@@ -1,0 +1,21 @@
+.layoutHeader{
+    font-weight: bold;
+}
+.layoutSwitcher{
+    margin-top:2em;      
+}
+.rootLayoutEmployees{
+    margin-top:6em;
+    margin-left:2em;
+    display: flex;
+}
+.rootLayoutEmployees > div {
+    width: 100%;
+}
+.itemEmployees > div{
+    width: 60%;
+    display: flex;
+}
+.MuiList-padding {
+    padding: 0!important;
+}

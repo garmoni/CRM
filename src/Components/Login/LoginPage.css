@@ -1,0 +1,14 @@
+
+.CRMLogin{
+ margin:0px !important;
+ padding:5px;
+ line-height: 1em;
+ align-items: baseline;
+}
+.CRMLogin label{
+    margin-right: 1em;
+}
+.row{
+    justify-content: center;
+    flex-direction: row;
+}

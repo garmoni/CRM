@@ -1,0 +1,22 @@
+.tableEmployees table {
+    width: auto;
+    margin-left:3em;
+}
+.tableEmployees td, .tableEmployees th{
+    padding: 5px 10px;
+    border: 1px solid #ccc;
+    max-width:100%;
+}
+.tableEmployees tr {
+    cursor: pointer;
+    transition: all 0.7s;
+}
+.tableEmployees tr:hover {
+    background: #e8e8e8;
+}
+.errorMessage{
+    color:red;
+}
+.MuiGrid-grid-lg-8 {
+
+}

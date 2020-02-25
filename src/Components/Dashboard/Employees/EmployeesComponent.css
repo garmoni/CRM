@@ -1,0 +1,24 @@
+.layoutHeader{
+    font-weight: bold;
+}
+.layoutSwitcher{
+    margin-top:2em;      
+}
+.rootLayoutEmployees{
+    margin-top:6em;
+    margin-left:2em;
+}
+.tableEmployees table {
+    width: 60%;
+}
+.tableEmployees td, .tableEmployees th{
+    padding: 5px 10px;
+    border: 1px solid #ccc;
+}
+.tableEmployees tr {
+    cursor: pointer;
+    transition: all 0.7s;
+}
+.tableEmployees tr:hover {
+    background: #e8e8e8;
+}

@@ -1,0 +1,8 @@
+.blockSwitcher {
+    flex-direction: row!important;
+    align-items: center;
+    margin-bottom: 15px;
+}
+.MuiFormControlLabel-root {
+    margin: 0!important;;
+}
